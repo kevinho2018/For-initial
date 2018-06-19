@@ -1,3 +1,5 @@
+#文件連結區
+
 ##PKG-890000-BET-Casino-Api
 ###API-DOC
 * [法老彩球-PHABL](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/PhaBall.md)
