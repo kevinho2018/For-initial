@@ -23,7 +23,6 @@
 * [tambalanceForBackEnd](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/tamBalanceForBackend.md)
 * [tamBalanceForFrontend](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/tamBalanceForFrontend.md)
 
----
 ###ERROR-DOC
 * [額度重置](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/creditReset.md)
 * [pha3dSlot](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/pha3dSlot.md)
@@ -34,14 +33,19 @@
 * [phaSlot](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaSlot.md)
 * [tamBalance](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/tamBalance.md)
 
+---
 ##PKG-320000-Branch
 ###API-DOC
 * [MID 站台設定 API](https://github.com/MID-TEAM/PKG-320000-Bet-branch/blob/master/_md/CONFIG.md)
 * [Error.md](https://github.com/MID-TEAM/PKG-320000-Bet-branch/blob/master/_md/Error.md)
 
+---
 ##PKG-430000-Bet-config-sport
 ###API-DOC
 * [取得額度、額度歸零](https://github.com/MID-TEAM/PKG-430000-Bet-config-sport/blob/master/_md/API/%E5%8F%96%E5%BE%97%E9%A1%8D%E5%BA%A6%E3%80%81%E9%A1%8D%E5%BA%A6%E6%AD%B8%E9%9B%B6.md)
 * [會員遊戲資源](https://github.com/MID-TEAM/PKG-430000-Bet-config-sport/blob/master/_md/API/%E6%9C%83%E5%93%A1%E8%B3%87%E6%BA%90.md)
+
+---
+
 
 
