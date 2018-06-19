@@ -1,53 +1,47 @@
-	•	[法老真人視訊-PHALE](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaLive.md) 
-	•	[法老SLOT-PHAST](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaSlot.md) 
-	•	[法老黃金期權-PHAGD](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaGolden.md) 
-	•	[法老3DSLOT-PHA3D](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/pha3dSlot.md) 
-	•	[法老彩球-PHABL](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/PhaBall.md) 
-	•	[餘額寶-TAMBT](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/tamBalance.md) 
-	•	[Credit_Reset](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/creditReset.md) 
-	•	[法老彩票-PHALT](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaLottery.md) ## Error  
-	•	[法老真人視訊-PHALE](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaLive.md) 
-	•	法老SLOT-PHAST 
-	•	法老黃金期權-PHAGD 
-	•	法老3DSLOT-PHA3D 
-	•	法老彩球-PHABL 
-	•	餘額寶-TAMBT 
-	•	Credit_Reset 
-	•	法老彩票-PHALT 
+##PKG-890000-BET-Casino-Api
+###API-DOC
+* [法老彩球-PHABL](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/PhaBall.md)
+* [Credit Reset 重置信用額度](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/creditReset.md)
+* [法老3DSLOT-PHA3D](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/pha3dSlot.md)
+* [法老黃金期權-PHAGD](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaGolden.md)
+* [法老真人視訊-PHALE](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaLive.md)
+* [法老彩票-PHALT](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaLottery.md)
+* [法老Slot-PHAST](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/phaSlot.md)
+* [法老餘額寶-TAMBT](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/tamBalance.md)
+* [法老餘額寶後台查詢-TAMBT](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/tamBalanceForBackend.md)
+* [法老餘額寶前台查詢](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/api/tamBalanceForFrontend.md)
 
+###DATA-DOC
+* [額度重置排程](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/creditReset.md)
+* [pha3dSlot](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/pha3dSlot.md)
+* [phaBall](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/phaBall.md)
+* [phaGolden](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/phaGolden.md)
+* [phaLive](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/phaLive.md)
+* [phaLottery](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/phaLottery.md)
+* [phaSlot](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/phaSlot.md)
+* [tamBalance](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/tamBalance.md)
+* [tambalanceForBackEnd](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/tamBalanceForBackend.md)
+* [tamBalanceForFrontend](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/data/tamBalanceForFrontend.md)
 
-# 取得額度、額度歸零
+---
+###ERROR-DOC
+* [額度重置](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/creditReset.md)
+* [pha3dSlot](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/pha3dSlot.md)
+* [phaBall](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaBall.md)
+* [phaGolden](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaGolden.md)
+* [phaLive](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaLive.md)
+* [phaLottery](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaLottery.md)
+* [phaSlot](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/phaSlot.md)
+* [tamBalance](https://github.com/MID-TEAM/PKG-890000-Bet-Casino-Api/blob/master/_md/error/tamBalance.md)
 
-## API Document
+##PKG-320000-Branch
+###API-DOC
+* [MID 站台設定 API](https://github.com/MID-TEAM/PKG-320000-Bet-branch/blob/master/_md/CONFIG.md)
+* [Error.md](https://github.com/MID-TEAM/PKG-320000-Bet-branch/blob/master/_md/Error.md)
 
-> 取得指定帳號額度
+##PKG-430000-Bet-config-sport
+###API-DOC
+* [取得額度、額度歸零](https://github.com/MID-TEAM/PKG-430000-Bet-config-sport/blob/master/_md/API/%E5%8F%96%E5%BE%97%E9%A1%8D%E5%BA%A6%E3%80%81%E9%A1%8D%E5%BA%A6%E6%AD%B8%E9%9B%B6.md)
+* [會員遊戲資源](https://github.com/MID-TEAM/PKG-430000-Bet-config-sport/blob/master/_md/API/%E6%9C%83%E5%93%A1%E8%B3%87%E6%BA%90.md)
 
-| 項目                      | 內容                       | 說明                                  |
-|---------------------------|----------------------------|---------------------------------------|
-| <b>路徑</b>               | config-sport/quota/get-all-game-quota           |                                       |
-| <b>方法</b>               | GET                        |                                       |
-| <b>權限</b>               | 檢視                       |                                       |
-| <b>參數</b>               | p33_ant_guid               | 欲取得額度的帳號GUID                  |
-| <b>備註</b>               | 無                         |                                       |
-|                           |                            |                                       |
-
-
-
-# 會員遊戲資源
-
-
-
-
-## API Document
-
-> 取得遊戲剩餘點數或額度
-
-| 項目                      | 內容                       | 說明                                  |
-|---------------------------|----------------------------|---------------------------------------|
-| <b>路徑</b>               | config-sport/member-resource/get-balance           |                                       |
-| <b>方法</b>               | GET                        |                                       |
-| <b>權限</b>               | 登入                       |                                       |
-| <b>參數</b>               | 無                         |                                       |
-| <b>備註</b>               | 僅供會員使用                         |                                       |
-|                           |                            |                                       |
 
