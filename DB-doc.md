@@ -1,4 +1,4 @@
-#PKG-890000-Database：  
+# PKG-890000-Database：  
 * p89_casino_game_set：各遊戲設定(狀態、key、url、幣別、語系、時區)  
 * p89_casino_live_stake_limit：真人視訊 注區範本(現金、信用)  
 * p89_casino_pha_3dslot_report：3DSlot 下注清單  

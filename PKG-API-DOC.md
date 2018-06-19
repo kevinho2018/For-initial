@@ -48,6 +48,12 @@
 * [會員遊戲資源](https://github.com/MID-TEAM/PKG-430000-Bet-config-sport/blob/master/_md/API/%E6%9C%83%E5%93%A1%E8%B3%87%E6%BA%90.md)
 
 ---
+## PKG-1030000-Sport-Related-Website
+### API-DOC
+* [相關網站 > 分類管理](https://github.com/MID-TEAM/PKG-1030000-sport-related-website/blob/master/_md/SportRelatedWebsite.md)
+* [相關網站 > 網站列表](https://github.com/MID-TEAM/PKG-1030000-sport-related-website/blob/master/_md/SportRelatedWebsiteList.md)
+* [Error參數](https://github.com/MID-TEAM/PKG-1030000-sport-related-website/blob/master/_md/error.md)
 
+---
 
 
