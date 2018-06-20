@@ -61,7 +61,7 @@
 * [MID 站台設定 API](https://github.com/MID-TEAM/PKG-320000-Bet-branch/blob/master/_md/CONFIG.md)
 * [Error.md](https://github.com/MID-TEAM/PKG-320000-Bet-branch/blob/master/_md/Error.md)
 
-### API 數量 
+### API使用 
 1. [站台列表](#站台列表)
 2. [檢視](#檢視)
 3. [編輯程序](#編輯程序)
@@ -72,8 +72,8 @@
 
 ## API Document
 
-1. ## <span id="branch-list">站台列表</span>
 
+1. ## <span id="branch-list">站台列表</span>
 
 	### Request 參數說明
 
@@ -85,7 +85,11 @@
 | <b>參數</b>               | 參照 branch/setting/get-list |                                       |
 |<b>>備註</b>               | 非全域帳號不可操作           |                                       |
 
+---
 
+2. ## <span id="branch-config-show">檢視</span>
+
+	### Request 參數說明
 
 | 項目                      | 內容                       | 說明                                  |
 |---------------------------|----------------------------|---------------------------------------|
@@ -96,8 +100,11 @@
 |                           | p32_bch_guid               | 站台GUID(全域帳號須帶入)              |
 |<b>>備註</b>               | 非全域帳號僅限站長可操作   |                                       |
 
+---
 
-## 3. 編輯程序
+3. ## <span id="branch-config-doset">編輯程序</span>
+
+	### Request 參數說明
 
 | 項目                      | 內容                       | 說明                                  |
 |---------------------------|----------------------------|---------------------------------------|
@@ -119,7 +126,11 @@
 |                           | forum_api_url | 論壇api 網址                   |
 |                           | forum_platform | 論壇api識別代號                   |
 
-## 4. 檢視站台啟用球類
+---
+
+4. ## <span id="branch-config-showsportcategory">檢視站台啟用球類</span>
+
+	### Request 參數說明
 
 | 項目                      | 內容                       | 說明                                  |
 |---------------------------|----------------------------|---------------------------------------|
